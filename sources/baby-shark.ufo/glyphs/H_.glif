@@ -1,20 +1,21 @@
-<?xml version="1.1" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="500"/>
-  <outline>
-    <contour>
-      <point x="10" y="700" type="line"/>
-      <point x="235" y="700" type="line"/>
-      <point x="235" y="554" type="line"/>
-      <point x="265" y="554" type="line"/>
-      <point x="265" y="700" type="line"/>
-      <point x="490" y="700" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="265" y="0" type="line"/>
-      <point x="265" y="178" type="line"/>
-      <point x="235" y="178" type="line"/>
-      <point x="235" y="0" type="line"/>
-      <point x="10" y="0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0048"/>
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="10" y="700" type="line"/>
+			<point x="235" y="700" type="line"/>
+			<point x="235" y="554" type="line"/>
+			<point x="265" y="554" type="line"/>
+			<point x="265" y="700" type="line"/>
+			<point x="490" y="700" type="line"/>
+			<point x="490" y="0" type="line"/>
+			<point x="265" y="0" type="line"/>
+			<point x="265" y="178" type="line"/>
+			<point x="235" y="178" type="line"/>
+			<point x="235" y="0" type="line"/>
+			<point x="10" y="0" type="line"/>
+		</contour>
+	</outline>
 </glyph>
