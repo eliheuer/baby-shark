@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Baby Shark';
+    src: url('../../fonts/Baby Shark.ttf');
+}
+body {
+    font-family:Baby Shark;
+    background-color:#000;
+    color:#ddd;
+    scrollbar-width: none;
+}
+p {
+    font-size:8em;
+    line-height:0.1;
+    margin-bottom:-0.35em;
+}
