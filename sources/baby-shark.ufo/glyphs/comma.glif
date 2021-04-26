@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+	<unicode hex="002C"/>
+	<advance width="230"/>
+	<outline>
+		<contour>
+			<point x="105" y="10" type="curve"/>
+			<point x="95" y="-40" type="line"/>
+			<point x="151" y="-40" type="line" smooth="yes"/>
+			<point x="179" y="2"/>
+			<point x="215" y="49"/>
+			<point x="215" y="90" type="curve" smooth="yes"/>
+			<point x="215" y="145"/>
+			<point x="165" y="180"/>
+			<point x="115" y="180" type="curve" smooth="yes"/>
+			<point x="65" y="180"/>
+			<point x="15" y="145"/>
+			<point x="15" y="90" type="curve" smooth="yes"/>
+			<point x="15" y="32"/>
+			<point x="55" y="10"/>
+		</contour>
+		<contour identifier="75ee2f4e-12c0-4a24-8eff-0e4a93fb0a69">
+			<point x="102.09256" y="292"/>
+			<point x="85.09584" y="296.12045"/>
+			<point x="70.485405" y="304.62906" type="curve"/>
+			<point x="55.874966" y="313.1377"/>
+			<point x="43.854298" y="325.9659"/>
+			<point x="36.13089" y="341.0062" type="curve"/>
+			<point x="28.40748" y="356.0465"/>
+			<point x="25" y="373.09256"/>
+			<point x="25" y="390" type="curve" smooth="yes" identifier="63985a3e-8d98-46c8-8822-f876ace03bc2"/>
+			<point x="25.000006" y="406.58414"/>
+			<point x="28.54394" y="423.26233"/>
+			<point x="36.12266" y="438.0135" type="curve"/>
+			<point x="43.70138" y="452.76462"/>
+			<point x="55.356506" y="465.43558"/>
+			<point x="69.58249" y="473.95935" type="curve"/>
+			<point x="83.80848" y="482.48312"/>
+			<point x="100.41796" y="486.7368"/>
+			<point x="117" y="487" type="curve" smooth="yes" identifier="8b44edd5-bd7a-4184-b228-f637cf213fa3"/>
+			<point x="133.87358" y="487.31247"/>
+			<point x="150.91257" y="482.74213"/>
+			<point x="165.54842" y="474.09085" type="curve"/>
+			<point x="180.18428" y="465.4396"/>
+			<point x="192.37662" y="452.761"/>
+			<point x="200.58067" y="438.0128" type="curve"/>
+			<point x="208.78471" y="423.26462"/>
+			<point x="213" y="406.50128"/>
+			<point x="213" y="390" type="curve" smooth="yes" identifier="955d34ad-fba5-4f2b-98b9-2637d507c42d"/>
+			<point x="213" y="373.76306"/>
+			<point x="208.9743" y="357.11737"/>
+			<point x="201.00829" y="342.33466" type="curve"/>
+			<point x="193.04228" y="327.55194"/>
+			<point x="181.1318" y="314.69034"/>
+			<point x="166.75775" y="305.78632" type="curve"/>
+			<point x="152.38368" y="296.8823"/>
+			<point x="135.58498" y="292"/>
+			<point x="119" y="292" type="curve" smooth="yes" identifier="60eb00b7-9327-420e-86a7-93229835d8cd"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.objectLibs</key>
+			<dict>
+				<key>75ee2f4e-12c0-4a24-8eff-0e4a93fb0a69</key>
+				<dict>
+					<key>org.linebender.hyperbezier-version</key>
+					<integer>1</integer>
+				</dict>
+				<key>63985a3e-8d98-46c8-8822-f876ace03bc2</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>56</real>
+						<key>x2</key>
+						<real>25</real>
+						<key>y1</key>
+						<real>292</real>
+						<key>y2</key>
+						<real>326</real>
+						<key>auto1</key>
+						<false />
+						<key>auto2</key>
+						<false />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>8b44edd5-bd7a-4184-b228-f637cf213fa3</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>25</real>
+						<key>x2</key>
+						<real>54</real>
+						<key>y1</key>
+						<real>448</real>
+						<key>y2</key>
+						<real>486</real>
+						<key>auto1</key>
+						<false />
+						<key>auto2</key>
+						<false />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>955d34ad-fba5-4f2b-98b9-2637d507c42d</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>171</real>
+						<key>x2</key>
+						<real>213</real>
+						<key>y1</key>
+						<real>488</real>
+						<key>y2</key>
+						<real>442</real>
+						<key>auto1</key>
+						<false />
+						<key>auto2</key>
+						<false />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+				<key>60eb00b7-9327-420e-86a7-93229835d8cd</key>
+				<dict>
+					<key>org.linebender.hyperbezier-control</key>
+					<dict>
+						<key>x1</key>
+						<real>213</real>
+						<key>x2</key>
+						<real>172</real>
+						<key>y1</key>
+						<real>339</real>
+						<key>y2</key>
+						<real>292</real>
+						<key>auto1</key>
+						<false />
+						<key>auto2</key>
+						<false />
+					</dict>
+					<key>org.linebender.hyperbezier-point</key>
+					<true />
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
