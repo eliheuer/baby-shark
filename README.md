@@ -1,2 +1,3 @@
 # Baby Shark
-This font is something I work on while dogfooding Runebender, WIP.
+![Refrence Image 1](documentation/images/specimen-001.png)
+This font is something I work on while testing Runebender.
