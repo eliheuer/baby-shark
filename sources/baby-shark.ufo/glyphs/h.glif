@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
 	<unicode hex="0068"/>
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="22" y="-3" type="line"/>
+			<point x="20" y="698" type="line"/>
+			<point x="212" y="696" type="line"/>
+			<point x="227" y="443" type="line"/>
+			<point x="276" y="465"/>
+			<point x="310" y="509"/>
+			<point x="375" y="510" type="curve" smooth="yes"/>
+			<point x="440" y="511"/>
+			<point x="491" y="405"/>
+			<point x="494" y="384" type="curve" smooth="yes"/>
+			<point x="482" y="-5" type="line"/>
+			<point x="351" y="-6" type="line"/>
+			<point x="330" y="221" type="line"/>
+			<point x="314" y="221" type="line"/>
+			<point x="328" y="-5" type="line"/>
+		</contour>
+	</outline>
 </glyph>
